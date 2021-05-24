@@ -36,7 +36,6 @@ export default function Guides() {
 
   return (
     <div className={styles.guides}>
-      <h1>All Guides</h1>
       {!authReady && <h5>Loading...</h5>}
 
       {error && (
@@ -47,7 +46,7 @@ export default function Guides() {
 
       {guides &&
         guides.map((guide, index) => (
-          <div key={index}>
+          <div key={index} className={styles.card}>
             <h3>{guide.title}</h3>
             <h5>Written by {guide.author}</h5>
             <p>
