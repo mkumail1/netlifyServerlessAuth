@@ -1,4 +1,4 @@
-This is the starter site project & all course files for the Next.js & Netlify Identity tutorial on the Net Ninja YouTube channel. Check out the [full tutorial here](https://www.youtube.com/playlist?list=PL4cUxeGkcC9i4g-0dAaMmFAyM6k3FmuZz).
+[![Netlify Status](https://api.netlify.com/api/v1/badges/60e789d4-c411-4b0a-b693-5007f55c8796/deploy-status)](https://app.netlify.com/sites/gallant-golick-448b58/deploys)
 
 ### Getting Started
 
